@@ -6,9 +6,9 @@ Introduction
 ------------
 
 A prototyping kit for iOS.
-
+<div style="text-align:center">
 <img src="media/tramontanaBanner.jpg" alt="" width="600px"/>
-
+</div>
 Tramonatana is a platform intended as a tool for designers and creatives to use iPhones and iPads as sensors or actuators and create quick prototypes of interactive apps, spaces and objects.
 
 With this openFrameworks plugin you can control from a desktop sketch your phone and you can use it as a sensor or actuator with little effort. You can download the iOS app [here](https://itunes.apple.com/us/app/tramontana/id1121069555?ls=1&mt=8).
